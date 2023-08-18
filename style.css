@@ -1,6 +1,7 @@
 .container{
     display: flex;
     width: 90vw;
+    background-image: linear-gradient(rgb(0,0,50,0,0.7),rgb(0,0,50,0,0.7),url(jjjj.jpg));
 }
 body{
     display: flex;
@@ -12,5 +13,5 @@ body{
 
 }
 .ap{
-    background-image: url('//1.jpg');
+    background-image: url('1.jpg');
 }
