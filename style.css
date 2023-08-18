@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    width: 90vw;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden;
+
+}
